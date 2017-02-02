@@ -9,7 +9,7 @@
 # cui - example "C0020538"
 #################################################################################
 
-from pyumls.apilib.auth import *
+from .auth import *
 import requests
 import json
 

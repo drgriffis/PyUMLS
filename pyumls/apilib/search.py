@@ -9,7 +9,7 @@
 # string - example "diabetic foot"
 #################################################################################
 
-from pyumls.apilib.auth import *
+from .auth import *
 import requests
 import json
 
